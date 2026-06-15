@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Paper Reviewer"
+  short_description: "Strict reviewer-style paper audit and red-flag checks"
+  default_prompt: "Use $ai-paper-reviewer to audit my paper like a harsh conference reviewer and list the most important issues first."

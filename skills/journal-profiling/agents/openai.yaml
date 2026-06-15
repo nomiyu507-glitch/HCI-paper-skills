@@ -1,0 +1,4 @@
+interface:
+  display_name: "Journal Profiling"
+  short_description: "Profile a journal's recent publication preferences"
+  default_prompt: "Use $journal-profiling to analyze this journal's recent publication style and fit for my paper."

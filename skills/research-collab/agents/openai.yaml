@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Collab"
+  short_description: "Design, HCI, and CS research copilot"
+  default_prompt: "Use $research-collab to help me with my design, HCI, or CS research workflow."
