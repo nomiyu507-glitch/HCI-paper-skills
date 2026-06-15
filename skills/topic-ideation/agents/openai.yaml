@@ -1,0 +1,4 @@
+interface:
+  display_name: "Topic Ideation"
+  short_description: "Turn research ideas into stronger paper topics"
+  default_prompt: "Use $topic-ideation to turn my rough research idea into stronger topic options based on recent trends."

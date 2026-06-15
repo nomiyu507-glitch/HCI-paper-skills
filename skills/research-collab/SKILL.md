@@ -64,6 +64,14 @@ Prefer `paper-spine-research` when the user wants to:
 - compare exemplar papers
 - gather claim-support material before drafting
 
+Use `topic-ideation` when the user wants to:
+
+- turn a rough idea into clearer paper topics
+- judge whether an idea is timely or saturated
+- combine five-year publication trends with current research or industry progress
+- generate several candidate directions from one idea
+- compare conservative and more novel topic variants
+
 For lighter section-only work, prefer `research-paper-writing` instead of full `paper-spine`.
 
 ### 3. Writing Or Rewriting Sections

@@ -13,6 +13,7 @@ This repository packages portable custom skills that can be symlinked into `~/.c
 - `research-collab`
 - `paper-reading`
 - `journal-profiling`
+- `topic-ideation`
 - `ai-paper-reviewer`
 
 ## Optional Upstream Skills
